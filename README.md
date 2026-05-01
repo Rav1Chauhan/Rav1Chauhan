@@ -38,7 +38,7 @@ Hi 👋, I am <font size=6>**RaviChauhan**</font> an enthusiastic and ambitious 
 </a> 
 
 <a href="https://https://github.com/Rav1Chauhan">
-  <img src="https://streak-stats.demolab.com?user=Rav1Chauhan&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Rav1Chauhan&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </a>
 
 </div>
